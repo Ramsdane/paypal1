@@ -1,0 +1,48 @@
+.icon {
+    position: relative;
+    color: rgb(39, 29, 146);
+    font-size: 120px;
+    text-align: center; 
+}
+
+input {
+    display: block;
+    padding: 10px;
+    margin: auto;
+    width: 280px;
+    margin-top: 20px;
+}
+button{
+    display: block;
+    padding: 10px;
+    margin: auto;
+    width: 280px;
+    margin-top: 20px;
+    background-color: rgb(79, 79, 231);
+    color: white;
+}
+a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    margin: auto;
+    width: 280px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+hr{
+    width: 230px;
+    border: none;
+    border-top: 2px solid;
+    margin: auto;
+}
+#b2{
+    display: block;
+    padding: 10px;
+    margin: auto;
+    width: 280px;
+    margin-top: 20px;
+    background-color: rgb(197, 197, 214);
+    color: black;
+}
